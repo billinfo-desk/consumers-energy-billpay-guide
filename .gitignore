@@ -1,0 +1,23 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build directories (if added later)
+dist/
+build/
+
+# Temporary
+*.tmp
+*.swp
+*.bak
+
+# VSCode
+.vscode/
+
+# MacOS Finder
+.AppleDouble
+.LSOverride
